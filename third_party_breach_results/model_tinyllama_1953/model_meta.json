@@ -1,0 +1,12 @@
+{
+  "model_name": "TinyLlama/TinyLlama-1.1B-Chat-v1.0",
+  "run_name": "tinyllama",
+  "num_labels": 3,
+  "label_names": [
+    "Ihlal Yok",
+    "Dogrudan Ihlal",
+    "3. Taraf Ihlali"
+  ],
+  "model_size_mb": 760.8,
+  "quantized": true
+}

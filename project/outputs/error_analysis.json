@@ -1,0 +1,533 @@
+[
+  {
+    "idx": 0,
+    "true_label": 2,
+    "true_name": "3. Taraf Ihlali",
+    "pred_label": 0,
+    "pred_name": "Ihlal Yok",
+    "confidence": 0.5115,
+    "text_snippet": "Title: Christie's starts notifying clients of RansomHub data breach [SEP] Content: British auction house Christie's is notifying individuals whose data was stolen by the RansomHub ransomware gang in a recent network breach. Christie's discovered that it was the victim of a security breach that affec"
+  },
+  {
+    "idx": 1,
+    "true_label": 2,
+    "true_name": "3. Taraf Ihlali",
+    "pred_label": 1,
+    "pred_name": "Dogrudan Ihlal",
+    "confidence": 0.5914,
+    "text_snippet": "Title: Ten Years Later, New Clues in the Target Breach [SEP] Content: On Dec. 18, 2013, KrebsOnSecurity broke the news that U.S. retail giant Target was battling a wide-ranging computer intrusion that compromised more than 40 million customer payment cards over the previous month. The malware used i"
+  },
+  {
+    "idx": 2,
+    "true_label": 1,
+    "true_name": "Dogrudan Ihlal",
+    "pred_label": 2,
+    "pred_name": "3. Taraf Ihlali",
+    "confidence": 0.7095,
+    "text_snippet": "Title: Spike in ATM Skimming in Mexico? [SEP] Content: Several sources in the financial industry say they are seeing a spike in fraud on customer cards used at ATMs in Mexico. The reason behind that apparent increase hopefully will be fodder for another story. In this post, we’ll take a closer look "
+  },
+  {
+    "idx": 3,
+    "true_label": 2,
+    "true_name": "3. Taraf Ihlali",
+    "pred_label": 0,
+    "pred_name": "Ihlal Yok",
+    "confidence": 0.4012,
+    "text_snippet": "Title: National Student Clearinghouse data breach impacts 890 schools [SEP] Content: U.S. educational nonprofit National Student Clearinghouse (NSC) has disclosed a data breach affecting 890 schools using its services across the United States. In a breach notification letter filed with the Office of"
+  },
+  {
+    "idx": 4,
+    "true_label": 1,
+    "true_name": "Dogrudan Ihlal",
+    "pred_label": 2,
+    "pred_name": "3. Taraf Ihlali",
+    "confidence": 0.6782,
+    "text_snippet": "Title: U.S. Secret Service: “Massive Fraud” Against State Unemployment Insurance Programs [SEP] Content: A well-organized Nigerian crime ring is exploiting the COVID-19 crisis by committing large-scale fraud against multiple state unemployment insurance programs, with potential losses in the hundred"
+  },
+  {
+    "idx": 6,
+    "true_label": 2,
+    "true_name": "3. Taraf Ihlali",
+    "pred_label": 0,
+    "pred_name": "Ihlal Yok",
+    "confidence": 0.4958,
+    "text_snippet": "Title: Cencora data breach exposes US patient info from 11 drug companies [SEP] Content: Post updated on 5/25 to add three more pharmaceutical firms also impacted by the Cencora security breach. Some of the largest drug companies in the world have disclosed data breaches due to a February 2024 cyber"
+  },
+  {
+    "idx": 8,
+    "true_label": 2,
+    "true_name": "3. Taraf Ihlali",
+    "pred_label": 0,
+    "pred_name": "Ihlal Yok",
+    "confidence": 0.6759,
+    "text_snippet": "Title: UH Cancer Center data breach affects nearly 1.2 million people [SEP] Content: The University of Hawaii has confirmed that a ransomware gang stole the data of nearly 1.2 million individuals after breaching its Cancer Center's Epidemiology Division in August 2025. Founded in 1907, the Universit"
+  },
+  {
+    "idx": 9,
+    "true_label": 2,
+    "true_name": "3. Taraf Ihlali",
+    "pred_label": 1,
+    "pred_name": "Dogrudan Ihlal",
+    "confidence": 0.5372,
+    "text_snippet": "Title: Coinbase says recent data breach impacts 69,461 customers [SEP] Content: Coinbase, a cryptocurrency exchange with over 100 million customers, revealed that a recent data breach in which cybercriminals stole customer and corporate data affected 69,461 individuals. In data breach notifications "
+  },
+  {
+    "idx": 10,
+    "true_label": 2,
+    "true_name": "3. Taraf Ihlali",
+    "pred_label": 1,
+    "pred_name": "Dogrudan Ihlal",
+    "confidence": 0.3667,
+    "text_snippet": "Title: NY Business Council discloses data breach affecting 47,000 people [SEP] Content: The Business Council of New York State (BCNYS) has revealed that attackers who breached its network in February stole the personal, financial, and health information of over 47,000 individuals. As the state's lar"
+  },
+  {
+    "idx": 11,
+    "true_label": 2,
+    "true_name": "3. Taraf Ihlali",
+    "pred_label": 0,
+    "pred_name": "Ihlal Yok",
+    "confidence": 0.5026,
+    "text_snippet": "Title: Medical billing firm Medusind discloses breach affecting 360,000 people [SEP] Content: ​Medusind, a leading billing provider for healthcare organizations, is notifying hundreds of thousands of individuals of a data breach that exposed their personal and health information more than a year ago"
+  },
+  {
+    "idx": 12,
+    "true_label": 1,
+    "true_name": "Dogrudan Ihlal",
+    "pred_label": 0,
+    "pred_name": "Ihlal Yok",
+    "confidence": 0.5126,
+    "text_snippet": "Title: QAnon/8Chan Sites Briefly Knocked Offline [SEP] Content: A phone call to an Internet provider in Oregon on Sunday evening was all it took to briefly sideline multiple websites related to8chan/8kun— a controversial online image board linked to several mass shootings — andQAnon, the far-right c"
+  },
+  {
+    "idx": 13,
+    "true_label": 2,
+    "true_name": "3. Taraf Ihlali",
+    "pred_label": 1,
+    "pred_name": "Dogrudan Ihlal",
+    "confidence": 0.569,
+    "text_snippet": "Title: Largest non-bank lender in Australia warns of a data breach [SEP] Content: Firstmac Limited is warning customers that it suffered a data breach a day after the new Embargo cyber-extortion group leaked over 500GB of data allegedly stolen from the firm. Firstmac is a significant player in Austr"
+  },
+  {
+    "idx": 14,
+    "true_label": 2,
+    "true_name": "3. Taraf Ihlali",
+    "pred_label": 0,
+    "pred_name": "Ihlal Yok",
+    "confidence": 0.5823,
+    "text_snippet": "Title: Banco Santander warns of a data breach exposing customer info [SEP] Content: Banco Santander S.A. announced it suffered a data breach impacting customers after an unauthorized actor accessed a database hosted by one of its third-party service providers. With a strong presence in Spain, the Un"
+  },
+  {
+    "idx": 15,
+    "true_label": 2,
+    "true_name": "3. Taraf Ihlali",
+    "pred_label": 0,
+    "pred_name": "Ihlal Yok",
+    "confidence": 0.503,
+    "text_snippet": "Title: Retail giant Ahold Delhaize says data breach affects 2.2 million people [SEP] Content: Ahold Delhaize, one of the world's largest food retail chains, is notifying over 2.2 million individuals that their personal, financial, and health information was stolen in a November ransomware attack tha"
+  },
+  {
+    "idx": 16,
+    "true_label": 2,
+    "true_name": "3. Taraf Ihlali",
+    "pred_label": 1,
+    "pred_name": "Dogrudan Ihlal",
+    "confidence": 0.5387,
+    "text_snippet": "Title: Ransomware gang starts leaking alleged stolen Change Healthcare data [SEP] Content: The RansomHub extortion gang has begun leaking what they claim is corporate and patient data stolen from United Health subsidiary Change Healthcare in what has been a long and convoluted extortion process for "
+  },
+  {
+    "idx": 17,
+    "true_label": 2,
+    "true_name": "3. Taraf Ihlali",
+    "pred_label": 0,
+    "pred_name": "Ihlal Yok",
+    "confidence": 0.5152,
+    "text_snippet": "Title: Finland confirms APT31 hackers behind 2021 parliament breach [SEP] Content: The Finnish Police confirmed on Tuesday that the APT31 hacking group linked to the Chinese Ministry of State Security (MSS) was behind a breach of the country's parliament disclosed in March 2021. Since then, a joint "
+  },
+  {
+    "idx": 18,
+    "true_label": 2,
+    "true_name": "3. Taraf Ihlali",
+    "pred_label": 1,
+    "pred_name": "Dogrudan Ihlal",
+    "confidence": 0.5281,
+    "text_snippet": "Title: Delta Dental of California data breach exposed info of 7 million people [SEP] Content: Delta Dental of California and its affiliates are warning almost seven million patients that they suffered a data breach after personal data was exposed in a MOVEit Transfer software breach. Delta Dental of"
+  },
+  {
+    "idx": 19,
+    "true_label": 2,
+    "true_name": "3. Taraf Ihlali",
+    "pred_label": 0,
+    "pred_name": "Ihlal Yok",
+    "confidence": 0.801,
+    "text_snippet": "Title: Advance Auto Parts data breach impacts 2.3 million people [SEP] Content: Advance Auto Parts is sending data breach notifications to over 2.3 million people whose personal data was stolen in recent Snowflake data theft attacks. Advance operates 4,777 stores and 320 Worldpac branches, serving 1"
+  },
+  {
+    "idx": 22,
+    "true_label": 2,
+    "true_name": "3. Taraf Ihlali",
+    "pred_label": 1,
+    "pred_name": "Dogrudan Ihlal",
+    "confidence": 0.4793,
+    "text_snippet": "Title: Hyatt Card Breach Hit 250 Hotels in 50 Nations [SEP] Content: If you stayed, ate or played at a Hyatt hotel between Aug. 13 and Dec. 8, 2015, there’s a good chance your credit or debit card data was stolen by unknown cyber thieves who infiltrated many of the hotel chain’s payment systems. In "
+  },
+  {
+    "idx": 24,
+    "true_label": 2,
+    "true_name": "3. Taraf Ihlali",
+    "pred_label": 0,
+    "pred_name": "Ihlal Yok",
+    "confidence": 0.5715,
+    "text_snippet": "Title: Microsoft: Lazarus hackers breach CyberLink in supply chain attack [SEP] Content: Microsoft says a North Korean hacking group has breached Taiwanese multimedia software company CyberLink and trojanized one of its installers to push malware in a supply chain attack targeting potential victims "
+  },
+  {
+    "idx": 25,
+    "true_label": 2,
+    "true_name": "3. Taraf Ihlali",
+    "pred_label": 0,
+    "pred_name": "Ihlal Yok",
+    "confidence": 0.5746,
+    "text_snippet": "Title: OmniVision discloses data breach after 2023 ransomware attack [SEP] Content: The California-based imaging sensors manufacturer OmniVision is warning of a data breach after the company suffered a Cactus ransomware attack last year. OmniVision, a subsidiary of the Chinese Will Semiconductor, de"
+  },
+  {
+    "idx": 26,
+    "true_label": 1,
+    "true_name": "Dogrudan Ihlal",
+    "pred_label": 0,
+    "pred_name": "Ihlal Yok",
+    "confidence": 0.4042,
+    "text_snippet": "Title: Joint Statement from Elections Infrastructure Government Coordinating Council & the Election Infrastructure Sector Coordinating Executive Committees [SEP] Content: An official website of the United States government Here’s how you know Official websites use .govA.govwebsite belongs to an offi"
+  },
+  {
+    "idx": 27,
+    "true_label": 2,
+    "true_name": "3. Taraf Ihlali",
+    "pred_label": 0,
+    "pred_name": "Ihlal Yok",
+    "confidence": 0.67,
+    "text_snippet": "Title: Discord starts notifying users affected by March data breach [SEP] Content: Starting on Monday, Discord has been reaching out to users affected by a data breach disclosed earlier this year to let them know what Personal Identifying Information (PII) was exposed in the incident. The breach ste"
+  },
+  {
+    "idx": 28,
+    "true_label": 2,
+    "true_name": "3. Taraf Ihlali",
+    "pred_label": 0,
+    "pred_name": "Ihlal Yok",
+    "confidence": 0.5049,
+    "text_snippet": "Title: Qantas discloses cyberattack amid Scattered Spider aviation breaches [SEP] Content: Australian airline Qantas disclosed that it detected a cyberattack on Monday after threat actors gained access to a third-party platform containing customer data. Qantas is Australia's largest airline, operati"
+  },
+  {
+    "idx": 29,
+    "true_label": 1,
+    "true_name": "Dogrudan Ihlal",
+    "pred_label": 0,
+    "pred_name": "Ihlal Yok",
+    "confidence": 0.8788,
+    "text_snippet": "Title: Who’s Behind the NetWire Remote Access Trojan? [SEP] Content: A Croatian national has been arrested for allegedly operatingNetWire, a Remote Access Trojan (RAT) marketed on cybercrime forums since 2012 as a stealthy way to spy on infected systems and siphon passwords. The arrest coincided wit"
+  },
+  {
+    "idx": 30,
+    "true_label": 2,
+    "true_name": "3. Taraf Ihlali",
+    "pred_label": 0,
+    "pred_name": "Ihlal Yok",
+    "confidence": 0.556,
+    "text_snippet": "Title: Okta says data leaked on hacking forum not from its systems [SEP] Content: Okta denies that its company data was leaked after a threat actor shared files allegedly stolen during an October 2023 cyberattack on a hacker forum. Okta is a San Fransisco-based cloud identity and access management s"
+  },
+  {
+    "idx": 31,
+    "true_label": 0,
+    "true_name": "Ihlal Yok",
+    "pred_label": 2,
+    "pred_name": "3. Taraf Ihlali",
+    "confidence": 0.7017,
+    "text_snippet": "Title: NJ Man Hired Online to Firebomb, Shoot at Homes Gets 13 Years in Prison [SEP] Content: A 22-year-old New Jersey man has been sentenced to more than 13 years in prison for participating in a firebombing and a shooting at homes in Pennsylvania last year.Patrick McGovern-Allenwas the subject of "
+  },
+  {
+    "idx": 32,
+    "true_label": 2,
+    "true_name": "3. Taraf Ihlali",
+    "pred_label": 1,
+    "pred_name": "Dogrudan Ihlal",
+    "confidence": 0.6311,
+    "text_snippet": "Title: Microsoft Patches Six Zero-Day Security Holes [SEP] Content: Microsofttoday released another round of security updates forWindowsoperating systems and supported software,including fixes for six zero-day bugs that malicious hackers already are exploiting in active attacks. June’s Patch Tuesday"
+  },
+  {
+    "idx": 33,
+    "true_label": 0,
+    "true_name": "Ihlal Yok",
+    "pred_label": 2,
+    "pred_name": "3. Taraf Ihlali",
+    "confidence": 0.7932,
+    "text_snippet": "Title: DOGE employee Edward Coristine lands at CISA with DHS email [SEP] Content: Tesla and SpaceX CEO Elon Musk speaks during an executive order signing in the Oval Office at the White House on February 11, 2025. Edward Coristine, a staffer in Musk's Department of Government Efficiency, was recentl"
+  },
+  {
+    "idx": 34,
+    "true_label": 2,
+    "true_name": "3. Taraf Ihlali",
+    "pred_label": 1,
+    "pred_name": "Dogrudan Ihlal",
+    "confidence": 0.5982,
+    "text_snippet": "Title: Premera Blue Cross Breach Exposes Financial, Medical Records [SEP] Content: Premera Blue Cross, a major provider of health care services, disclosed today that an intrusion into its network may have resulted in the breach of financial and medical records of 11 million customers. Although Preme"
+  },
+  {
+    "idx": 35,
+    "true_label": 1,
+    "true_name": "Dogrudan Ihlal",
+    "pred_label": 2,
+    "pred_name": "3. Taraf Ihlali",
+    "confidence": 0.7309,
+    "text_snippet": "Title: Crafty Web Skimming Domain Spoofs “ [SEP] Content: Earlier today, KrebsOnSecurity alerted the 10th largest food distributor in the United States that one of its Web sites had been hacked and retrofitted with code that steals credit card and login data. While such Web site card skimming attack"
+  },
+  {
+    "idx": 36,
+    "true_label": 2,
+    "true_name": "3. Taraf Ihlali",
+    "pred_label": 0,
+    "pred_name": "Ihlal Yok",
+    "confidence": 0.6365,
+    "text_snippet": "Title: Greece’s Land Registry agency breached in wave of 400 cyberattacks [SEP] Content: The Land Registry agency in Greece has announced that it suffered a limited-scope data breach following a wave of 400 cyberattacks targeting its IT infrastructure over the last week. The agency said hackers mana"
+  },
+  {
+    "idx": 40,
+    "true_label": 2,
+    "true_name": "3. Taraf Ihlali",
+    "pred_label": 0,
+    "pred_name": "Ihlal Yok",
+    "confidence": 0.421,
+    "text_snippet": "Title: Data breach at healthcare tech firm impacts 4.5 million patients [SEP] Content: HealthEC LLC, a provider of health management solutions, suffered a data breach that impacts close to 4.5 million individuals who received care through one of the company's customers. HealthEC provides a populatio"
+  },
+  {
+    "idx": 42,
+    "true_label": 2,
+    "true_name": "3. Taraf Ihlali",
+    "pred_label": 0,
+    "pred_name": "Ihlal Yok",
+    "confidence": 0.7733,
+    "text_snippet": "Title: Bank of America warns customers of data breach after vendor hack [SEP] Content: Bank of America is warning customers of a data breach exposing their personal information after Infosys McCamish Systems (IMS), one of its service providers, was hacked last year. Customer personally identifiable "
+  },
+  {
+    "idx": 43,
+    "true_label": 2,
+    "true_name": "3. Taraf Ihlali",
+    "pred_label": 0,
+    "pred_name": "Ihlal Yok",
+    "confidence": 0.6558,
+    "text_snippet": "Title: Checkout.com snubs hackers after data breach, to donate ransom instead [SEP] Content: UK financial technology company Checkout announced that the ShinyHunters threat group has breached one of its legacy cloud storage systems and is now extorting the company for a ransom. The company says that"
+  },
+  {
+    "idx": 44,
+    "true_label": 1,
+    "true_name": "Dogrudan Ihlal",
+    "pred_label": 0,
+    "pred_name": "Ihlal Yok",
+    "confidence": 0.5569,
+    "text_snippet": "Title: 15-Year-Old Malware Proxy Network VIP72 Goes Dark [SEP] Content: Over the past 15 years, a cybercrime anonymity service known asVIP72has enabled countless fraudsters to mask their true location online by routing their traffic through millions of malware-infected systems. But roughly two weeks"
+  },
+  {
+    "idx": 47,
+    "true_label": 2,
+    "true_name": "3. Taraf Ihlali",
+    "pred_label": 0,
+    "pred_name": "Ihlal Yok",
+    "confidence": 0.4936,
+    "text_snippet": "Title: New MailChimp breach exposed DigitalOcean customer email addresses [SEP] Content: DigitalOcean is warning customers that a recent MailChimp security breach exposed the email addresses of some customers, with a small number receiving unauthorized password resets. The company says they first le"
+  },
+  {
+    "idx": 49,
+    "true_label": 2,
+    "true_name": "3. Taraf Ihlali",
+    "pred_label": 1,
+    "pred_name": "Dogrudan Ihlal",
+    "confidence": 0.5644,
+    "text_snippet": "Title: University of Sydney suffers data breach exposing student and staff info [SEP] Content: Hackers gained access to an online coding repository belonging to the University of Sydney and stole files with personal information of staff and students. The institution said the breach was limited to a "
+  },
+  {
+    "idx": 50,
+    "true_label": 2,
+    "true_name": "3. Taraf Ihlali",
+    "pred_label": 0,
+    "pred_name": "Ihlal Yok",
+    "confidence": 0.4437,
+    "text_snippet": "Title: Inside Ireland’s Public Healthcare Ransomware Scare [SEP] Content: The consulting firmPricewaterhouseCoopersrecently published lessons learned from the disruptive and costly ransomware attack in May 2021 on Ireland’s public health system. The unusually candid post-mortem found that nearly two"
+  },
+  {
+    "idx": 51,
+    "true_label": 0,
+    "true_name": "Ihlal Yok",
+    "pred_label": 2,
+    "pred_name": "3. Taraf Ihlali",
+    "confidence": 0.8784,
+    "text_snippet": "Title: Lorem Ipsum: Of Good & Evil, Google & China [SEP] Content: Imagine discovering a secret language spoken only online by a knowledgeable and learned few. Over a period of weeks, as you begin to tease out the meaning of this curious tongue and ponder its purpose, the language appears to shift in"
+  },
+  {
+    "idx": 52,
+    "true_label": 2,
+    "true_name": "3. Taraf Ihlali",
+    "pred_label": 0,
+    "pred_name": "Ihlal Yok",
+    "confidence": 0.7836,
+    "text_snippet": "Title: IPany VPN breached in supply-chain attack to push custom malware [SEP] Content: South Korean VPN provider IPany was breached in a supply chain attack by the \"PlushDaemon\" China-aligned hacking group, who compromised the company's VPN installer to deploy the custom 'SlowStepper' malware. The h"
+  },
+  {
+    "idx": 53,
+    "true_label": 1,
+    "true_name": "Dogrudan Ihlal",
+    "pred_label": 0,
+    "pred_name": "Ihlal Yok",
+    "confidence": 0.6152,
+    "text_snippet": "Title: Using Google Search to Find Software Can Be Risky [SEP] Content: Googlecontinues to struggle with cybercriminals running malicious ads on its search platform to trick people into downloading booby-trapped copies of popular free software applications. The malicious ads, which appear above orga"
+  },
+  {
+    "idx": 54,
+    "true_label": 2,
+    "true_name": "3. Taraf Ihlali",
+    "pred_label": 1,
+    "pred_name": "Dogrudan Ihlal",
+    "confidence": 0.8878,
+    "text_snippet": "Title: CISA Order Highlights Persistent Risk at Network Edge [SEP] Content: The U.S. government agency in charge of improving the nation’s cybersecurity posture is ordering all federal agencies to take new measures to restrict access to Internet-exposed networking equipment. The directive comes amid"
+  },
+  {
+    "idx": 55,
+    "true_label": 2,
+    "true_name": "3. Taraf Ihlali",
+    "pred_label": 1,
+    "pred_name": "Dogrudan Ihlal",
+    "confidence": 0.6939,
+    "text_snippet": "Title: MFA Fatigue: Hackers’ new favorite tactic in high-profile breaches [SEP] Content: Hackers are more frequently using social engineering attacks to gain access to corporate credentials and breach large networks. One component of these attacks that is becoming more popular with the rise of multi"
+  },
+  {
+    "idx": 56,
+    "true_label": 1,
+    "true_name": "Dogrudan Ihlal",
+    "pred_label": 0,
+    "pred_name": "Ihlal Yok",
+    "confidence": 0.9041,
+    "text_snippet": "Title: Patch Tuesday, June 2024 “Recall” Edition [SEP] Content: Microsofttoday released updates to fix more than 50 security vulnerabilities inWindowsand related software, a relatively light Patch Tuesday this month for Windows users. The software giant also responded to a torrent of negative feedba"
+  },
+  {
+    "idx": 57,
+    "true_label": 1,
+    "true_name": "Dogrudan Ihlal",
+    "pred_label": 0,
+    "pred_name": "Ihlal Yok",
+    "confidence": 0.5092,
+    "text_snippet": "Title: How Each Pillar of the 1st Amendment is Under Attack [SEP] Content: “Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to peti"
+  },
+  {
+    "idx": 58,
+    "true_label": 2,
+    "true_name": "3. Taraf Ihlali",
+    "pred_label": 0,
+    "pred_name": "Ihlal Yok",
+    "confidence": 0.4867,
+    "text_snippet": "Title: Nokia says hackers leaked third-party app source code [SEP] Content: Nokia's investigation of recent claims of a data breach found that the source code leaked on a hacker forum belongs to a third party and company and customer data has not been impacted. The statement comes in response to thr"
+  },
+  {
+    "idx": 59,
+    "true_label": 0,
+    "true_name": "Ihlal Yok",
+    "pred_label": 2,
+    "pred_name": "3. Taraf Ihlali",
+    "confidence": 0.5524,
+    "text_snippet": "Title: When Getting Phished Puts You in Mortal Danger [SEP] Content: Many successful phishing attacks result in a financial loss or malware infection. But falling for some phishing scams, like those currently targeting Russians searching online for organizations that are fighting the Kremlin war mac"
+  },
+  {
+    "idx": 60,
+    "true_label": 2,
+    "true_name": "3. Taraf Ihlali",
+    "pred_label": 0,
+    "pred_name": "Ihlal Yok",
+    "confidence": 0.5801,
+    "text_snippet": "Title: Neiman Marcus data breach: 31 million email addresses found exposed [SEP] Content: A May 2024 data breach disclosed by American luxury retailer and department store chain Neiman Marcus last month has exposed more than 31 million customer email addresses, according to Have I Been Pwned founder"
+  },
+  {
+    "idx": 61,
+    "true_label": 2,
+    "true_name": "3. Taraf Ihlali",
+    "pred_label": 0,
+    "pred_name": "Ihlal Yok",
+    "confidence": 0.6477,
+    "text_snippet": "Title: U.S. nuclear research lab data breach impacts 45,000 people [SEP] Content: The Idaho National Laboratory (INL) confirmed that attackers stole the personal information of more than 45,000 individuals after breaching its cloud-based Oracle HCM HR management platform last month. INL is one of 17"
+  },
+  {
+    "idx": 62,
+    "true_label": 2,
+    "true_name": "3. Taraf Ihlali",
+    "pred_label": 0,
+    "pred_name": "Ihlal Yok",
+    "confidence": 0.4798,
+    "text_snippet": "Title: Blue Shield of California leaked health data of 4.7 million members to Google [SEP] Content: Blue Shield of California disclosed it suffered a data breach after exposing protected health information of 4.7 million members to Google's analytics and advertisement platforms. The nonprofit health"
+  },
+  {
+    "idx": 63,
+    "true_label": 2,
+    "true_name": "3. Taraf Ihlali",
+    "pred_label": 0,
+    "pred_name": "Ihlal Yok",
+    "confidence": 0.5611,
+    "text_snippet": "Title: DoorDash hit by new data breach in October exposing user information [SEP] Content: DoorDash has disclosed a data breach that hit the food delivery platform this October. Beginning yesterday evening, DoorDash, which serves millions of customers across the U.S., Canada, Australia, and New Zeal"
+  },
+  {
+    "idx": 64,
+    "true_label": 2,
+    "true_name": "3. Taraf Ihlali",
+    "pred_label": 0,
+    "pred_name": "Ihlal Yok",
+    "confidence": 0.5168,
+    "text_snippet": "Title: UK confirms Ministry of Defence payroll data exposed in data breach [SEP] Content: The UK Government confirmed today that a threat actor recently breached the country’s Ministry of Defence and gained access to part of the Armed Forces payment network. The attacked system contained personal da"
+  },
+  {
+    "idx": 65,
+    "true_label": 1,
+    "true_name": "Dogrudan Ihlal",
+    "pred_label": 2,
+    "pred_name": "3. Taraf Ihlali",
+    "confidence": 0.6989,
+    "text_snippet": "Title: FTC Stops Bogus Post Office Job Offers [SEP] Content: An official website of the United States government Here’s how you know The .gov means it’s official.Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you’re on a federal government site"
+  },
+  {
+    "idx": 67,
+    "true_label": 1,
+    "true_name": "Dogrudan Ihlal",
+    "pred_label": 2,
+    "pred_name": "3. Taraf Ihlali",
+    "confidence": 0.6932,
+    "text_snippet": "Title: The Case for Limiting Your Browser Extensions [SEP] Content: Last week, KrebsOnSecurity reported to health insurance providerBlue Shield of Californiathat its Web site was flagged by multiple security products as serving malicious content. Blue Shield quickly removed the unauthorized code. An"
+  },
+  {
+    "idx": 68,
+    "true_label": 2,
+    "true_name": "3. Taraf Ihlali",
+    "pred_label": 1,
+    "pred_name": "Dogrudan Ihlal",
+    "confidence": 0.489,
+    "text_snippet": "Title: France's warship builder Naval Group investigates 1TB data breach [SEP] Content: France's state-owned defense firm Naval Group is investigating a cyberattack after 1TB of allegedly stolen data was leaked on a hacking forum. The company characterized this as a \"destabilization attempt\" and a \""
+  },
+  {
+    "idx": 69,
+    "true_label": 2,
+    "true_name": "3. Taraf Ihlali",
+    "pred_label": 1,
+    "pred_name": "Dogrudan Ihlal",
+    "confidence": 0.6543,
+    "text_snippet": "Title: Plant Your Flag, Mark Your Territory [SEP] Content: Many people, particularly older folks, proudly declare they avoid using the Web to manage various accounts tied to their personal and financial data — including everything from utilities and mobile phones to retirement benefits and online ba"
+  },
+  {
+    "idx": 70,
+    "true_label": 2,
+    "true_name": "3. Taraf Ihlali",
+    "pred_label": 0,
+    "pred_name": "Ihlal Yok",
+    "confidence": 0.946,
+    "text_snippet": "Title: Anthem Breach May Have Started in April 2014 [SEP] Content: Analysis of open source information on the cybercriminal infrastructure likely used to siphon 80 million Social Security numbers and other sensitive data from health insurance giant Anthem suggests the attackers may have first gained"
+  },
+  {
+    "idx": 71,
+    "true_label": 2,
+    "true_name": "3. Taraf Ihlali",
+    "pred_label": 0,
+    "pred_name": "Ihlal Yok",
+    "confidence": 0.5212,
+    "text_snippet": "Title: Newsletter platform Substack notifies users of data breach [SEP] Content: Newsletter platform Substack is notifying users of a data breach after attackers stole their email addresses and phone numbers in October 2025. Although the incident occurred four months ago, CEO Chris Best told affecte"
+  }
+]
