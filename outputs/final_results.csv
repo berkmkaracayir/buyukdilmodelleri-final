@@ -1,0 +1,5 @@
+Model,Accuracy,Macro-F1,Weighted-F1,Hız (ms/örnek)
+SMOLLM2,0.75,0.7402,0.7486,240.1
+TINYLLAMA,1.0,1.0,1.0,173.8
+QWEN,1.0,1.0,1.0,255.4
+GEMMA,0.4167,0.2941,0.2451,490.6
